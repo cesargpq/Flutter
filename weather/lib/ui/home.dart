@@ -42,7 +42,7 @@ class HomePage extends StatelessWidget {
                     height: 40.0,
                   ),
                   Text(
-                    'Innovadores,\npor Naturaleza',
+                    'Innovadores,\npor Naturalezas',
                     style: TextStyle(
                       fontSize: 35,
                       fontWeight: FontWeight.bold,
